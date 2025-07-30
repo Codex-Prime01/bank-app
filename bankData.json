@@ -1,0 +1,34 @@
+[
+    {
+        "type": "savings",
+        "accountNumber": "RGG-9005-531-4465",
+        "name": "Rggfgfgfgf",
+        "balance": 2424254.0,
+        "interestRate": 88.0,
+        "overdraftLimit": null
+    },
+    {
+        "type": "savings",
+        "accountNumber": "RFG-0896-253-3762",
+        "name": "Rfgfdgfd",
+        "balance": 77776.0,
+        "interestRate": 99.0,
+        "overdraftLimit": null
+    },
+    {
+        "type": "savings",
+        "accountNumber": "MAR-1946-795-6408",
+        "name": "Martinez castroo",
+        "balance": 10000000.0,
+        "interestRate": 0.111,
+        "overdraftLimit": null
+    },
+    {
+        "type": "savings",
+        "accountNumber": "REE-5450-057-9141",
+        "name": "Reedere",
+        "balance": 5442434.0,
+        "interestRate": 45.0,
+        "overdraftLimit": null
+    }
+]
